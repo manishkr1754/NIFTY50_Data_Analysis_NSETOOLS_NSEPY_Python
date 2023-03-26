@@ -1,5 +1,9 @@
-# NIFTY50_Data_Analysis_NSETOOLS_NSEPY_Python
+# NIFTY50 Data Analysis using Python
 ![image](https://user-images.githubusercontent.com/114581035/216782163-eea21cbf-2560-4919-a28c-3ecf3cfbb499.png)
+
+# Detailed Article @ Medium
+- [NIFTY50 Data Analysis Series using Python](https://medium.com/@kmrmanish/nifty50-data-analysis-using-python-d9227e525894)
+- [A Data Extraction Guide for NIFTY50 Historical Data [1]](https://medium.com/@kmrmanish/a-data-extraction-guide-for-nifty50-historical-data-1-220a097c7a1a)
 
 # Problem Statement
 NIFTY50 Data Analysis from scratch (Data Extraction to Data Visualization)
