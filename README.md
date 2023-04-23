@@ -21,21 +21,6 @@
 11. **Portfolio Analysis :** Invest on All Gap Down Days
 12. **Sharpe Ratio Comparison :** Compare different investment strategies and risk adjusted returns
 
-# Problem Statement
-NIFTY50 Data Analysis from scratch (Data Extraction to Data Visualization)
-
-
-    Tasks to be performed: 
-    1. Use nsetools/nsepy to download NSE/NIFTY50 data (daily data) for last 15 years. Use for loop and time sleep for 1 min
-    2. If possible, download the 1 year 5min data for NIFTY50
-    3. Data Visualization : plots to visualize the trends over the last one year and so. Go for cufflinks and plotly
-    4. How many times NIFTY gave a gap-up or gap-down opening and what dates
-    5. Add on column- (High-Low)
-    6. Add another column- (Movement from open)
-    7. "Perchange_prev_close" 
-    8. Calculate 7days/14days/21 days/50 days and 200 days exponential moving averages
-    9. Plot the historical data (for one month for example) using candlesticks
-    10. Heikin aashi candle data( as separate df). Try to calculate using python code and create it as a function
 
 # Approach
 Extracted 15 years NIFTY50 data using **nsepy/nsetools**, performed **technical analysis**, used **Cufflinks** and **Plotly** for interactive **candlestick** and **Heikin Ashi charts**
@@ -43,6 +28,16 @@ Extracted 15 years NIFTY50 data using **nsepy/nsetools**, performed **technical 
 # Outcome
 Understood NIFTY50 trends through interactive data visualization, providing investment insights
 
-# About NIFTY50
-https://www.nseindia.com/products-services/indices-nifty50-index
+
+![1](https://user-images.githubusercontent.com/114581035/233861339-f3502eec-019b-4bff-aa3a-332422d71f45.png)
+
+![2](https://user-images.githubusercontent.com/114581035/233861391-8c5ed324-7fab-43d6-97c6-3aa18f4f95be.png)
+
+![3](https://user-images.githubusercontent.com/114581035/233861469-603e4aac-0a3f-4842-96ef-deff7ac73cf8.png)
+
+![4](https://user-images.githubusercontent.com/114581035/233861525-f12faa1e-9f05-4cd8-b026-e70c12c1f9a4.png)
+
+
+
+
 
