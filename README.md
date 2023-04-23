@@ -26,7 +26,8 @@
 Extracted 15 years NIFTY50 data using **nsepy/nsetools**, performed **technical analysis**, used **Cufflinks** and **Plotly** for interactive **candlestick** and **Heikin Ashi charts**
 
 # Outcome
-Understood NIFTY50 trends through interactive data visualization, providing investment insights
+
+Understood NIFTY50 trends through interactive data visualization and provided investment insights
 
 
 ![1](https://user-images.githubusercontent.com/114581035/233861339-f3502eec-019b-4bff-aa3a-332422d71f45.png)
@@ -59,15 +60,15 @@ Understood NIFTY50 trends through interactive data visualization, providing inve
 
 ![15](https://user-images.githubusercontent.com/114581035/233862099-f7ca6631-1e8b-415a-aeb9-4a9dcb035ffe.png)
 
+![16](https://user-images.githubusercontent.com/114581035/233862337-a3a82950-9da3-4217-bc0b-64f800b4d468.png)
 
+![17](https://user-images.githubusercontent.com/114581035/233862366-e547f163-a7a9-4372-a336-d1442466ee27.png)
 
+![18](https://user-images.githubusercontent.com/114581035/233862388-40446e0c-f821-4234-84d4-dc34ab50c37c.png)
 
+![19](https://user-images.githubusercontent.com/114581035/233862440-9e3f7506-8a62-4d35-b547-22f2b8a25365.png)
 
-
-
-
-
-
+![20](https://user-images.githubusercontent.com/114581035/233862457-97826434-3f7d-4798-bdb0-6d67b1cb6ffa.png)
 
 
 
