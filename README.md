@@ -51,6 +51,17 @@ Understood NIFTY50 trends through interactive data visualization, providing inve
 
 ![11](https://user-images.githubusercontent.com/114581035/233861907-1b35f048-2c6c-48f7-b9d6-b3b1446274af.png)
 
+![12](https://user-images.githubusercontent.com/114581035/233862025-90b9fc6e-2027-4ec4-815e-abc7f626e0c8.png)
+
+![13](https://user-images.githubusercontent.com/114581035/233862041-13f6f9d0-971b-4e6a-a5d1-4bc3b16e2d6b.png)
+
+![14](https://user-images.githubusercontent.com/114581035/233862078-6ec0d67c-8e45-404c-847b-fb2d418d5cdd.png)
+
+![15](https://user-images.githubusercontent.com/114581035/233862099-f7ca6631-1e8b-415a-aeb9-4a9dcb035ffe.png)
+
+
+
+
 
 
 
