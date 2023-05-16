@@ -6,6 +6,7 @@
 - [A Data Extraction Guide for NIFTY50 Historical Data [1]](https://medium.com/@kmrmanish/a-data-extraction-guide-for-nifty50-historical-data-1-220a097c7a1a)
 - [Interactive Data Visualization for NIFTY50 Historical Data [2]](https://medium.com/@kmrmanish/interactive-data-visualization-for-nifty50-historical-data-2-5a7fb672a8ec)
 - [A Macro View of NIFTY50 Historical Data through High-Low and Open-Close Analysis [3]](https://medium.com/@kmrmanish/a-macro-view-of-nifty50-historical-data-through-high-low-and-open-close-analysis-3-753212d7f88b)
+- [Gap Up-Gap Down Analysis for NIFTY50 Historical Data [4]](https://medium.com/@kmrmanish/gap-up-gap-down-analysis-for-nifty50-historical-data-4-126e51f21ce1)
 
 
 
